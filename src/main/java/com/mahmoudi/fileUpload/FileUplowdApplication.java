@@ -19,7 +19,7 @@ public class FileUplowdApplication {
 	@Bean
 	public CommandLineRunner run() {
 		return args -> {
-			fileServiceImpl.listAll();
+			//fileServiceImpl.listAll();
 		};
 	}
 }
