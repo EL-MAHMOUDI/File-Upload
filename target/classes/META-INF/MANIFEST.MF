@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: el-mahmoudi
+Build-Jdk: 11.0.3
+Implementation-Title: File-Uplowd
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mahmoudi
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/File-Uplowd
+Created-By: Maven Integration for Eclipse
+
